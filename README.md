@@ -19,4 +19,15 @@ A machine learning project that implements a Support Vector Machine (SVM) classi
 You can use any labeled dataset (e.g., Iris, digits, custom CSV). The project is dataset-agnostic but includes examples with:
 
 - **Iris Dataset** (default)
-- Option to
+- Option to load your own CSV dataset
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Install Python 3 and the following libraries:
+
+```bash
+pip install numpy pandas scikit-learn matplotlib seaborn
